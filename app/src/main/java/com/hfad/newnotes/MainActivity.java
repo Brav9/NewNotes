@@ -58,16 +58,12 @@ public class MainActivity extends AppCompatActivity {
         ListView listView = (ListView) findViewById(R.id.listView);
         floatingActionButton = (FloatingActionButton) findViewById(R.id.floatingActionButton);
 
-
-
         floatingActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
             }
         });
-
-
 
 
         SharedPreferences sharedPreferences = getApplicationContext()
