@@ -61,7 +61,8 @@ public class MainActivity extends AppCompatActivity {
         floatingActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent = new Intent(getApplicationContext(), NoteEditorActivity.class);
+                startActivity(intent);
             }
         });
 
@@ -78,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
-        arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, notes);
+        arrayAdapter = new ArrayAdapter(this, R.layout.item_zometko, notes);
 
         listView.setAdapter(arrayAdapter);
 

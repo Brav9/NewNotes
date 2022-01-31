@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Arta0/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/NewNotes/app/src/main/res/layout-v14/item_zometko.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Arta0/Documents/Projects/NewNotes/app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
         <entry key="..\:/Users/Arta0/Documents/Projects/NewNotes/app/src/main/res/layout/activity_note_editor.xml" value="0.1" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/NewNotes/app/src/main/res/layout/item_zometko.xml" value="0.2682291666666667" />
         <entry key="..\:/Users/Arta0/Documents/Projects/NewNotes/app/src/main/res/menu/add_note_menu.xml" value="0.1" />
       </map>
     </option>
